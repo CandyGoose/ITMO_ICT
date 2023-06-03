@@ -1,6 +1,77 @@
 # Работы 1 семестра ИКТ
 
+## Математический анализ
+[Материалы](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/1_term_ICT/Mathematical_analysis)
+
+## Линейная алгебра
+[Материалы](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/1_term_ICT/Linear_algebra)
+
+## Дискретная математика
+[Лекции и практики](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/1_term_ICT/Discrete_math)
+
+---
+
+## Английский
+[Тексты для Moodle](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/1_term_ICT/English)
+
+## История
+[Задания и работы](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/1_term_ICT/History)
+
+---
+
+## Инфокоммуникационные технологии
+
+### Теоретические материалы
+
+[Лекции](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/ICT/lectures)
+
+[Практики и задания для ПР](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/ICT/practices_and_tasks)
+
+### Практические работы и курсовая
+
+[1 - ГОСТ в Ворде](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/ICT/PR1)
+
+[2 - ГОСТ в Латехе](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/ICT/PR2)
+
+[3 - Идея мобильного приложения](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/ICT/PR3)
+
+[4 - Презентация мобильного приложения](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/ICT/PR4)
+
+[5 - UML](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/ICT/PR5)
+
+[6 - IDEF0](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/ICT/PR6)
+
+[7 - DFD, IDEF3, BPMN](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/ICT/PR7)
+
+[8 - Техническое задание](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/ICT/PR8)
+
+[Курсовая работа](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/ICT/coursework)
+
+## Информатика
+
+### Аннотации
+
+[Все аннотации](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/Informatic/annotations)
+
+### Лабораторные
+
+[1 - Welcome](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/Informatic/labs/1_lab/1_lab.bash)
+
+[2 - Калькулятор](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/Informatic/labs/2_lab/2_lab.bash)
+
+[3 - Дерево файлов](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/Informatic/labs/3_lab/3_lab.bash)
+
+[4 - Cisco Packet Tracer](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/Informatic/labs/4_lab)
+
+[5 - Docker](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/Informatic/labs/5_lab/web_server)
+
+[6 - Latex](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/Informatic/labs/6_lab)
+
 ## Алгоритмы и структуры данных
+
+### Лекции
+
+[Презентации](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/Algoritms/lectures)
 
 ### В классе
 
@@ -64,47 +135,11 @@
 
 - [Лабиринт](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/Algoritms/labs/lab_5/3.py)
 
-## Инфокоммуникационные технологии
-
-[1 - ГОСТ в Ворде](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/ICT/PR1)
-
-[2 - ГОСТ в Латехе](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/ICT/PR2)
-
-[3 - Идея мобильного приложения](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/ICT/PR3)
-
-[4 - Презентация мобильного приложения](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/ICT/PR4)
-
-[5 - UML](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/ICT/PR5)
-
-[6 - IDEF0](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/ICT/PR6)
-
-[7 - DFD, IDEF3, BPMN](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/ICT/PR7)
-
-[8 - Техническое задание](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/ICT/PR8)
-
-[Курсовая работа](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/ICT/KR)
-
-## Информатика
-
-### Аннотации
-
-[Все аннотации](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/Informatic/annotations)
-
-### Лабораторные
-
-[1 - Welcome](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/Informatic/labs/1_lab/1_lab.bash)
-
-[2 - Калькулятор](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/Informatic/labs/2_lab/2_lab.bash)
-
-[3 - Дерево файлов](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/Informatic/labs/3_lab/3_lab.bash)
-
-[4 - Cisco Packet Tracer](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/Informatic/labs/4_lab)
-
-[5 - Docker](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/Informatic/labs/5_lab/web_server)
-
-[6 - Latex](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/Informatic/labs/6_lab)
-
 ## Программирование
+
+### Лекции
+
+[Теоретические материалы и примеры](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/Programming/lectures)
 
 1 - Простейшие программы
 
@@ -195,22 +230,3 @@
 Домашнее задание
 
 - [Реализация программной модели инфокоммуникационной системы](https://github.com/VeraKasianenko/ITMO_ICT/blob/main/1_term_ICT/Programming/prog_dz)
-
----
-
-## Математический анализ
-[Материалы](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/1_term_ICT/Mathematical_analysis)
-
-## Линейная алгебра
-[Материалы](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/1_term_ICT/Linear_algebra)
-
-## Дискретная математика
-[Лекции и практики](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/1_term_ICT/Discrete_math)
-
----
-
-## Английский
-[Тексты для Moodle](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/1_term_ICT/English)
-
-## История
-[Работы](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/1_term_ICT/History)

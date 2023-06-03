@@ -1,11 +1,19 @@
 # Задания 2 семестра ИКТ
 ## Программирование
+[Лекции](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/2_term_ICT/Programming/lectures)
+
 [Задания](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/2_term_ICT/Programming)
 
 ## Алгоритмы и структуры данных
+
+[Лекции](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/2_term_ICT/Algoritms/lectures)
+
 [Задания](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/2_term_ICT/Algoritms)
 
 ---
+
+## Математический анализ
+[Материалы](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/2_term_ICT/Mathematical_analysis)
 
 ## Линейная алгебра
 [Задания](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/2_term_ICT/Linear_algebra)

@@ -1,0 +1,16 @@
+1. https://creately.com/blog/ru/uncategorized-ru/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-%D0%BF%D0%BE-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B5-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8/
+Простое руководство по диаграммам активности UML
+2. https://intellect.icu/potoki-sobytij-v-uml-5218 
+Потоки событий в UML кратко
+3. https://it.wikireading.ru/h9F2UR3zN6 Поток событий для прецедента (Кватрани)
+4. https://intuit.ru/studies/courses/1007/229/info Введение в UML
+
+5. https://www.cybermedian.com/ru/top-30-best-uml-modeling-software-2022/ 30 лучших программ для моделирования UML [2022]
+6. https://brasmlibras.ru/postroenie-uml-diagram/ Программы построения UML диаграмм
+
+7. Чего я могу посоветовать из ПО:
+Rational Rose - старинная, но отличная вещь. Для винды. М.б. несовместима с последними версиями.
+Ramus - винда,
+umbrello - linux,
+staruml 
+рисовалки типа visio, draw.io, lucidchart, creately
