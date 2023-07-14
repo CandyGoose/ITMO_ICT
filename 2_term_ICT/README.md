@@ -25,7 +25,7 @@
 
 [5 - Aлгopитмы и стpуктуpы дaнных](https://github.com/VeraKasianenko/Algoritms_2_term_ICT/tree/main/labs/lab5)
 
-## Базы данных
+## Проектирование и реализация баз данных
 ### Лекция
 [Презентация](https://github.com/VeraKasianenko/Database_2_term_ICT/tree/main/БАЗЫ_ДАННЫХ.pdf)
 ### Лабораторная

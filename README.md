@@ -2,7 +2,7 @@
 ## ИКТ
 | Семестр | Предмет                                                                                                                                                                |
 |---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1       | [Алгоритмы](https://github.com/VeraKasianenko/Algoritms_1_term_ICT)                                                                                                    | 
+| 1       | [Алгоритмы и структуры данных](https://github.com/VeraKasianenko/Algoritms_1_term_ICT)                                                                                                    | 
 | 1       | [Инфокоммуникационные технологии](https://github.com/VeraKasianenko/ICT)                                                                                               | 
 | 1       | [Информатика](https://github.com/VeraKasianenko/Informatic_ICT/)                                                                                                       | 
 | 1       | [Программирование](https://github.com/VeraKasianenko/Programming_1_term_ICT)                                                                                           |
@@ -11,9 +11,9 @@
 | 1       | [Дискретная математика](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/1_term_ICT/Discrete_math)                                                                 |
 | 1       | [История](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/1_term_ICT/History)                                                                                     |
 | 1       | [Английский](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/1_term_ICT/English)                                                                                  |
-| 2       | [Алгоритмы](https://github.com/VeraKasianenko/Algoritms_2_term_ICT)                                                                                                    | 
+| 2       | [Алгоритмы и структуры данных](https://github.com/VeraKasianenko/Algoritms_2_term_ICT)                                                                                                    | 
 | 2       | [Программирование](https://github.com/VeraKasianenko/Programming_2_term_ICT)                                                                                           |
-| 2       | [Базы данных](https://github.com/VeraKasianenko/Database_2_term_ICT)
+| 2       | [Проектирование и реализация баз данных](https://github.com/VeraKasianenko/Database_2_term_ICT)
 | 2       | [Математический анализ](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/2_term_ICT/Mathematical_analysis)                                                         |
 | 2       | [Линейная алгебра](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/2_term_ICT/Linear_algebra)                                                                     |
 | 2       | [Механика](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/2_term_ICT/Mechanics)                                                                                  |
