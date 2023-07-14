@@ -1,14 +1,35 @@
 # Задания 2 семестра ИКТ
 ## Программирование
-[Лекции](https://github.com/VeraKasianenko/Programming_2_term_ICT/tree/main/lectures)
-
+### Лекции
+[Презентации и материалы](https://github.com/VeraKasianenko/Programming_2_term_ICT/tree/main/lectures)
+### Практики
 [Задания](https://github.com/VeraKasianenko/Programming_2_term_ICT)
 
+[Контрольные](https://github.com/VeraKasianenko/Programming_2_term_ICT/tree/main/kr)
+
+[Домашнее задание](https://github.com/VeraKasianenko/Programming_2_term_ICT/tree/main/dz)
+
 ## Алгоритмы и структуры данных
+### Лекции
+[Презентации](https://github.com/VeraKasianenko/Algoritms_2_term_ICT/tree/main/lectures)
+### В классе
+[Задания](https://github.com/VeraKasianenko/Algoritms_2_term_ICT/tree/main/class)
+### Лабораторные
+[1 - Алгоритмы поиска подстрок](https://github.com/VeraKasianenko/Algoritms_2_term_ICT/tree/main/labs/lab1)
 
-[Лекции](https://github.com/VeraKasianenko/Algoritms_2_term_ICT/tree/main/lectures)
+[2 - Хэширование](https://github.com/VeraKasianenko/Algoritms_2_term_ICT/tree/main/labs/lab2)
 
-[Задания](https://github.com/VeraKasianenko/Algoritms_2_term_ICT)
+[3 - Жадные алгоритмы](https://github.com/VeraKasianenko/Algoritms_2_term_ICT/tree/main/labs/lab3)
+
+[4 - Динамическое программирование](https://github.com/VeraKasianenko/Algoritms_2_term_ICT/tree/main/labs/lab4)
+
+[5 - Aлгopитмы и стpуктуpы дaнных](https://github.com/VeraKasianenko/Algoritms_2_term_ICT/tree/main/labs/lab5)
+
+## Базы данных
+### Лекция
+[Презентация](https://github.com/VeraKasianenko/Database_2_term_ICT/tree/main/БАЗЫ_ДАННЫХ.pdf)
+### Лабораторная
+[Отчет](https://github.com/VeraKasianenko/Database_2_term_ICT/tree/main/report)
 
 ---
 
@@ -16,7 +37,10 @@
 [Материалы](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/2_term_ICT/Mathematical_analysis)
 
 ## Линейная алгебра
-[Задания](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/2_term_ICT/Linear_algebra)
+[Материалы](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/2_term_ICT/Linear_algebra)
+
+## Механика
+[Материалы](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/2_term_ICT/Mechanics)
 
 ## Английский
 [Тексты для Moodle](https://github.com/VeraKasianenko/ITMO_Software_engineering/tree/main/2_term_Software_engineering/English)
@@ -26,6 +50,9 @@
 
 ## Коммуникации и командообразование
 [Лекции и материалы](https://github.com/VeraKasianenko/ITMO_Software_engineering/tree/main/2_term_Software_engineering/Communication_and_team_building)
+
+## Философия
+[Материалы](https://github.com/VeraKasianenko/ITMO_ICT/tree/main/2_term_ICT/Philosophy)
 
 ---
 
