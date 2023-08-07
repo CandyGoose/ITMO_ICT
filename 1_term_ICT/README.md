@@ -55,11 +55,11 @@
 
 ### Лабораторные
 
-[1 - Welcome](https://github.com/VeraKasianenko/Informatic_ICT/blob/main/labs/1_lab/1_lab.bash)
+[1 - Welcome](https://github.com/VeraKasianenko/Informatic_ICT/blob/main/labs/1_lab/script.bash)
 
-[2 - Калькулятор](https://github.com/VeraKasianenko/Informatic_ICT/blob/main/labs/2_lab/2_lab.bash)
+[2 - Калькулятор](https://github.com/VeraKasianenko/Informatic_ICT/blob/main/labs/2_lab/script.bash)
 
-[3 - Дерево файлов](https://github.com/VeraKasianenko/Informatic_ICT/blob/main/labs/3_lab/3_lab.bash)
+[3 - Дерево файлов](https://github.com/VeraKasianenko/Informatic_ICT/blob/main/labs/3_lab/script.bash)
 
 [4 - Cisco Packet Tracer](https://github.com/VeraKasianenko/Informatic_ICT/blob/main/labs/4_lab)
 
