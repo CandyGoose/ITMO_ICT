@@ -4,15 +4,9 @@
 [submodule "1_term_ICT/Programming"]
 	path = 1_term_ICT/Programming
 	url = https://github.com/VeraKasianenko/Programming_1_term_ICT
-[submodule "1_term_ICT/Algoritms"]
-	path = 1_term_ICT/Algoritms
-	url = https://github.com/VeraKasianenko/Algoritms_1_term_ICT
 [submodule "1_term_ICT/Informatic"]
 	path = 1_term_ICT/Informatic
 	url = https://github.com/VeraKasianenko/Informatic_ICT
-[submodule "2_term_ICT/Algoritms"]
-	path = 2_term_ICT/Algoritms
-	url = https://github.com/VeraKasianenko/Algoritms_2_term_ICT
 [submodule "2_term_ICT/Database"]
 	path = 2_term_ICT/Database
 	url = https://github.com/VeraKasianenko/Database_2_term_ICT
