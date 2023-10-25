@@ -1,0 +1,30 @@
+[submodule "1_term_ICT/ICT"]
+	path = 1_term_ICT/ICT
+	url = https://github.com/VeraKasianenko/ICT
+[submodule "1_term_ICT/Programming"]
+	path = 1_term_ICT/Programming
+	url = https://github.com/VeraKasianenko/Programming_1_term_ICT
+[submodule "1_term_ICT/Algoritms"]
+	path = 1_term_ICT/Algoritms
+	url = https://github.com/VeraKasianenko/Algoritms_1_term_ICT
+[submodule "1_term_ICT/Informatic"]
+	path = 1_term_ICT/Informatic
+	url = https://github.com/VeraKasianenko/Informatic_ICT
+[submodule "2_term_ICT/Algoritms"]
+	path = 2_term_ICT/Algoritms
+	url = https://github.com/VeraKasianenko/Algoritms_2_term_ICT
+[submodule "2_term_ICT/Database"]
+	path = 2_term_ICT/Database
+	url = https://github.com/VeraKasianenko/Database_2_term_ICT
+[submodule "2_term_ICT/Programming"]
+	path = 2_term_ICT/Programming
+	url = https://github.com/VeraKasianenko/Programming_2_term_ICT
+[submodule "2_term_ICT/CAD"]
+	path = 2_term_ICT/CAD
+	url = https://github.com/VeraKasianenko/CAD_elective
+[submodule "3_term_ICT/NLP"]
+	path = 3_term_ICT/NLP
+	url = https://github.com/VeraKasianenko/NLP_elective
+[submodule "3_term_ICT/UE4_and_Blueprints"]
+	path = 3_term_ICT/UE4_and_Blueprints
+	url = https://github.com/VeraKasianenko/UE4_and_Blueprints_elective
