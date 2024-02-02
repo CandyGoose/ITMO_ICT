@@ -16,12 +16,6 @@
 [submodule "2_term_ICT/CAD"]
 	path = 2_term_ICT/CAD
 	url = https://github.com/VeraKasianenko/CAD_elective
-[submodule "3_term_ICT/NLP"]
-	path = 3_term_ICT/NLP
-	url = https://github.com/VeraKasianenko/NLP_elective
-[submodule "3_term_ICT/UE4_and_Blueprints"]
-	path = 3_term_ICT/UE4_and_Blueprints
-	url = https://github.com/VeraKasianenko/UE4_and_Blueprints_elective
 [submodule "1_term_ICT/Algorithms"]
 	path = 1_term_ICT/Algorithms
 	url = https://github.com/VeraKasianenko/Algorithms_1_term_ICT
