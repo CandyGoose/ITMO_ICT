@@ -1,0 +1,21 @@
+[submodule "1_term_ICT/ICT"]
+	path = 1_term_ICT/ICT
+	url = https://github.com/CandyGoose/ICT
+[submodule "1_term_ICT/Programming"]
+	path = 1_term_ICT/Programming
+	url = https://github.com/CandyGoose/Programming_1_term_ICT
+[submodule "1_term_ICT/Informatic"]
+	path = 1_term_ICT/Informatic
+	url = https://github.com/CandyGoose/Informatic_ICT
+[submodule "1_term_ICT/Algorithms"]
+	path = 1_term_ICT/Algorithms
+	url = https://github.com/CandyGoose/Algorithms_1_term_ICT
+[submodule "2_term_ICT/Algorithms"]
+	path = 2_term_ICT/Algorithms
+	url = https://github.com/CandyGoose/Algorithms_2_term_ICT
+[submodule "2_term_ICT/Database"]
+	path = 2_term_ICT/Database
+	url = https://github.com/CandyGoose/Database_2_term_ICT
+[submodule "2_term_ICT/Programming"]
+	path = 2_term_ICT/Programming
+	url = https://github.com/CandyGoose/Programming_2_term_ICT
